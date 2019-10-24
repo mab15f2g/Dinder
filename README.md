@@ -1,22 +1,27 @@
-## Dinder
+
+# Dinder
+## Desgin Finder
+A simple prototyp  for a swiping app with Vue.
+
+## Getting started
 ```
 npm install -g yarn
 ```
 
 
-## Getting started
+## Install 
+```
 yarn install
 yarn serve
+```
 
-#
 
-### Compiles and hot-reloads for development
+### Compiles and host for development
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### Compiles for production
 ```
 yarn run build
-```# Dinder
-Design Finder
+``` 
